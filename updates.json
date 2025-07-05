@@ -1,1 +1,17 @@
-
+{
+  "version": "1.0.1",
+  "releaseDate": "2025-7-5 T12:00:00Z",
+  "fileSize": 50500000,
+  "description": "新版本包含性能改进、新功能和重要安全更新",
+  "downloadUrl": "https://github.com/yourusername/yourrepo/releases/download/v2.2.0/deltasuite_2.2.0.exe",
+  "releaseNotes": [
+    "新增暗黑模式主题切换功能",
+    "优化了启动速度和内存占用",
+    "添加了新的数据分析仪表板",
+    "改进了文件导出功能，支持更多格式",
+    "修复了上个版本中的12个已知问题",
+    "修复了潜在的安全漏洞",
+    "增强了数据加密算法",
+    "改进了用户身份验证流程"
+  ]
+}
